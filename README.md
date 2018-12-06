@@ -17,4 +17,5 @@ Usage of ./apollo-client:
   -server string
     	--server addr,apollo server addr,eg:127.0.0.1:80
 ```
-eg: ./apollo-client --server=172.16.17.6:8080 --appid=apollo-example --cluster=DEV --namespace=application --outfile config.ini
+eg: ./apollo-client --server=172.16.17.6:8080 --appid=apollo-example --cluster=DEV --namespace=application --outfile config.ini  
+or ./apollo-client --configFile=./api/config.json --outfile config.ini  
