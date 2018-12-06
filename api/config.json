@@ -1,0 +1,6 @@
+{
+  "server":"172.16.17.6:8080",
+  "appId":"apollo-example",
+  "cluster":"DEV",
+  "namespace":"application"
+}
